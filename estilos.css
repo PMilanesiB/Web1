@@ -1,0 +1,57 @@
+h1 {
+    color: rgb(238, 51, 98);
+    text-align: center;
+    font-size: 400%;
+    text-shadow: 0.1em 0.1em 0.2em rgb(219, 120, 120);
+
+}
+
+h2 {
+    background-color: rgb(240, 237, 234);
+    color:rgb(238, 51, 98);
+}
+
+h3 {
+    text-transform: uppercase;
+}
+
+h4 {
+    background-color: rgb(120, 120, 196);
+    color: black;
+    text-align: center;
+}
+
+h5 {
+    background-color: rgb(8, 6, 6);
+    text-align: center;
+    color:white;
+    font-size:  170%;
+}
+
+p {
+    font-size: large;
+}
+
+.lista {
+    color: black;
+    font-size: xx-large;
+}
+a {
+    text-align: center;
+}
+div{
+    text-align: center;
+  
+  
+}
+img{ 
+    width: auto; 
+    max-height: 100%;
+    border-radius: 50%;
+}
+.tamaño {
+    height: 400px;
+    width: 1300px;
+    
+    
+   }
