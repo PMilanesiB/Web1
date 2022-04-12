@@ -19,6 +19,7 @@ h4 {
     background-color: rgb(120, 120, 196);
     color: black;
     text-align: center;
+   height: 25px;
 }
 
 h5 {
@@ -55,3 +56,12 @@ img{
     
     
    }
+   .contenedor{
+       display: flex;
+   }
+.texto {
+   border-style: groove;
+}
+.foto{
+    border-style: solid;
+}
